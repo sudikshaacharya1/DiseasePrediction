@@ -40,7 +40,9 @@ The selected models are evaluated using k-fold cross-validation, providing insig
 **Combining Models for Enhanced Prediction**
 
 A combined model is created by integrating predictions from SVM, Naive Bayes, and Random Forest classifiers. This approach leverages the diverse strengths of each model to enhance overall prediction accuracy.
-![image](https://github.com/sudikshaacharya1/DiseasePrediction/assets/138321124/dd145850-25b5-4007-9301-74425a4ac0cd)
+
+![image](https://github.com/sudikshaacharya1/DiseasePrediction/assets/138321124/853b1122-8446-4fc3-82ac-e8ef57b5fffd)
+
 
 
 **Usage Example**
