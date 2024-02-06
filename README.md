@@ -33,6 +33,7 @@ In selecting models, we consider a scenario where interpretability, simplicity, 
 **Model Evaluation using K-fold cross-validation**
 
 The selected models are evaluated using k-fold cross-validation, providing insights into their performance and generalization capabilities. Individual classifiers are also tested on a separate test dataset to assess their accuracy. The accuracy of all 3 models are high and similar.
+
 ![image](https://github.com/sudikshaacharya1/DiseasePrediction/assets/138321124/b5db5502-2951-4277-8642-aa46f221c4d5)
 
  
